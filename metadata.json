@@ -1,0 +1,7 @@
+{
+  "name": "5 AM Club",
+  "description": "A productivity app to help you master your morning routine with wake-up verification, deep work timers, and daily planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
